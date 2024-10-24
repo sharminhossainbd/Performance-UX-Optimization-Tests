@@ -2,6 +2,8 @@
 
 This repository outlines the results from a series of 10 tests conducted to enhance the platform's performance, user experience (UX), and operational processes. The objective of these tests was to evaluate the impact of specific changes on key metrics, such as user behavior, conversions, engagement, and operational efficiency. These findings provide actionable insights for improving various aspects of the platform, including customer satisfaction, sales performance, and system usability.
 
+[<img src='https://sharminhossainbd.github.io/Performance-UX-Optimization-Tests/UX.jpg'>](https://sharminhossainbd.github.io/Performance-UX-Optimization-Tests/UX.jpg)
+
 ## Test 1: Request for Stock Button for Foreign Books
 - Over a 15-day period, the "Not Available" status has decreased by 50% compared to the previous month.
 - A total of 178 orders had been placed through the "Request for Stock" feature.
