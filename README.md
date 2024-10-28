@@ -1,4 +1,4 @@
-# Performance & UX Optimization Tests
+# Performance-UX-Optimization-Tests
 
 This repository outlines the results from a series of 10 tests conducted to enhance the platform's performance, user experience (UX), and operational processes. The objective of these tests was to evaluate the impact of specific changes on key metrics, such as user behavior, conversions, engagement, and operational efficiency. These findings provide actionable insights for improving various aspects of the platform, including customer satisfaction, sales performance, and system usability.
 
